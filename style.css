@@ -80,6 +80,7 @@ h3{
     padding: 40px 40px 60px;
     text-align: left;
     border-radius: 10px;
+    box-shadow: 8px 8px 20px 2px gray;
 }
 .member{
     display: flex;
